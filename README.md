@@ -5,6 +5,12 @@ In my free time I practice juggling and I edit two independent music webzines.
 Everything you need to know about me will be available on these pages. 
 😁 
 
+## 📬 Get in touch
+
+- Web: [giuseppedp.page][1]
+- LinkedIn: [linkedin.com/in/dplmgspp/][2]
+- Twitter: [twitter.com/DiGiuseppePalma][3]
+
 <!--
 **GiuseppeDiPalma/GiuseppeDiPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
