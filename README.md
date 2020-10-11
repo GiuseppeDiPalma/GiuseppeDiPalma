@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://giuseppedp.page/
+[2]: https://www.linkedin.com/in/dplmgspp/
+[3]: https://twitter.com/DiGiuseppePalma
