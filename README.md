@@ -16,8 +16,9 @@ Everything you need to know about me will be available on these pages.
 <p align="center">    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeDiPalma&langs_count=100&layout=compact" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeDiPalma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeDiPalma&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!--
 **GiuseppeDiPalma/GiuseppeDiPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
