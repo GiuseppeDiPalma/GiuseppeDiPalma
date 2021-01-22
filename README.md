@@ -12,10 +12,7 @@ Everything you need to know about me will be available on these pages.
 - Twitter: [twitter.com/DiGiuseppePalma][3]
 
 
-<p align="center">    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeDiPalma&langs_count=100&layout=compact" />
-</p>
-
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeDiPalma&langs_count=100&layout=compact)
 
