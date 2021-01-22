@@ -11,11 +11,12 @@ Everything you need to know about me will be available on these pages.
 - LinkedIn: [linkedin.com/in/dplmgspp/][2]
 - Twitter: [twitter.com/DiGiuseppePalma][3]
 
+<p align="center">    
 <p align="left">
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeDiPalma&langs_count=100&layout=compact" />
 </p>
-
+</p>
 <!--
 **GiuseppeDiPalma/GiuseppeDiPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
