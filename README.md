@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Giuseppe , a 26 year old Neapolitan with a passion for computers. This is my personal space.
+I'm Giuseppe , a 28 year old Neapolitan with a passion for computers. This is my personal space.
 I am currently completing my master's degree in cloud computing at the University of Salerno. :black_joker:
 
 - 🔭 I’m currently working on **university projects;**
