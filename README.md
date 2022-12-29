@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Giuseppe , a 28 year old Neapolitan with a passion for computers. This is my personal space.
-I am currently completing my master's degree in cloud computing at the University of Salerno. :black_joker:
+Hi, piacere GIUSEPPE. I am a **neapolitan** cloud engineer. 
+I have studied and work on everything related to the cloud. From the first approach to the first steps in cloud. 
 
 - 🔭 I’m currently working on **university projects;**
 - 🌱 I’m currently learning **Cloud and parallel computing.**
