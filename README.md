@@ -10,6 +10,10 @@ I'm **neapolitan** cloud engineer. With a degree in computer science and special
 
 I have studied and work on everything related to the cloud. From the first approach to the first steps in cloud. I have experience with small and large migrations for small and large clients. I have also built entire systems with cloud-native methodology for university and for work. 
 
+### My top technologies
+
+
+
 ### 📚 Certifications
 <a href="https://www.credly.com/users/giuseppe-di-palma.9752bbf2"><img width="84px" alt="Youtube" title="Youtube" src="https://i.imgur.com/sotUhGK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
@@ -19,6 +23,20 @@ I have studied and work on everything related to the cloud. From the first appro
 #### 👨‍🏫 I'm now studying for these two:
 - AWS Certified Database - Specialty
 - HashiCorp Certified: Terraform Associate 
+
+<details>	
+  <br/>
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	  <li><b>OS:</b> Ubuntu 20.04 / Windows 10 </li>
+	    <li><b>Laptop: </b> ThinkPad T590 (i7) </li>
+  	  <li><b>Browser: </b> Edge</li>
+	    <li><b>Terminal: </b> Starship </li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br/>
+	</ul>	
+</details>
 
 ## 📬 Get in touch
 
