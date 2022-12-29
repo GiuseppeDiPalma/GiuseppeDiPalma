@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Hi, piacere GIUSEPPE. I am a **neapolitan** cloud engineer. 
-I have studied and work on everything related to the cloud. From the first approach to the first steps in cloud. 
+Hi, piacere Giuseppe. I am a **neapolitan** cloud engineer. With a degree in computer science and specializing in **cloud computing**.
 
-- 🔭 I’m currently working on **university projects;**
-- 🌱 I’m currently learning **Cloud and parallel computing.**
+I have studied and work on everything related to the cloud. From the first approach to the first steps in cloud. I have experience with small and large migrations for small and large clients. I have also built entire systems with cloud native methodology.
+
 
 ## 📬 Get in touch
 
