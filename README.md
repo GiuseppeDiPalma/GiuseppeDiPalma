@@ -14,7 +14,7 @@ I constantly work with systems that require high reliability and zero failure, l
 
 ---
 
-## 🔑 My top technologies
+## 🔑 My technologies
 - **Cloud Provider:** 
 	- `AWS` `Azure` `OpenStack`
 - **Operating System:**
