@@ -1,9 +1,21 @@
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=2000&color=F7F400&background=000000&center=true&vCenter=true&multiline=true&width=650&lines=Hi%2C+piacere+Giuseppe.+I'm+neapolitan+Cloud+Engineer." alt="Typing SVG" /></a>
+</p>
+
 ### Hi there 👋
 
-Hi, piacere Giuseppe. I am a **neapolitan** cloud engineer. With a degree in computer science and specializing in **cloud computing**.
+I'm **neapolitan** cloud engineer. With a degree in computer science and specializing in **cloud computing**.
 
-I have studied and work on everything related to the cloud. From the first approach to the first steps in cloud. I have experience with small and large migrations for small and large clients. I have also built entire systems with cloud native methodology.
+I have studied and work on everything related to the cloud. From the first approach to the first steps in cloud. I have experience with small and large migrations for small and large clients. I have also built entire systems with cloud-native methodology for university and for work. 
 
+### 📚 Certifications
+
+- 
+
+A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
+You miss 100% of the shots you don't take.
 
 ## 📬 Get in touch
 
