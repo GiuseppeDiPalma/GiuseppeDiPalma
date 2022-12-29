@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=2000&color=F7F400&background=000000&center=true&vCenter=true&multiline=true&width=650&lines=Hi%2C+piacere+Giuseppe.+I'm+neapolitan+Cloud+Engineer." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=2000&color=F7F400&background=000000&center=true&vCenter=true&multiline=true&width=650&height=45&lines=Hi%2C+piacere+Giuseppe.+I'm+neapolitan+Cloud+Engineer." alt="Typing SVG" /></a>
 </p>
 
 ### Hi there 👋
