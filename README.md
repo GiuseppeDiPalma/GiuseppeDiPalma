@@ -22,7 +22,7 @@ I constantly work with systems that require high reliability and zero failure, l
 - **Tool:** 
 	- `MySQL` `MongoDB` `AWS-Aurora` `AWS-DynamoDB` `MariaDB`
 	- `Docker` `Kubernetes`
-	- `Git` `SVN`
+	- `Git` `SVN` `Jenkins`
 	- `Zabbix` `Nagios` `Opensearch`
 - **Programming Languages:**
 	- Scripting: `Python` `Bash`
