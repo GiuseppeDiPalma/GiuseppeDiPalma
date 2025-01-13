@@ -20,9 +20,9 @@ I constantly work with systems that require high reliability and zero failure, l
 
 ## 🔑 My technologies
 - **Cloud Provider:** 
-	- `AWS` `Azure` `OpenStack`
+	- `AWS` `Oracle Cloud` `Google Cloud`
 - **Operating System:**
-	- `Ubuntu` `Amazon Linux2` `CentOS`
+	- `Ubuntu` `Amazon Linux2` `RHEL`
 - **Tool:** 
 	- `MySQL` `MongoDB` `AWS-Aurora` `AWS-DynamoDB` `MariaDB`
 	- `Docker` `Kubernetes`
@@ -30,10 +30,10 @@ I constantly work with systems that require high reliability and zero failure, l
 	- `Zabbix` `Nagios` `Opensearch`
 - **Programming Languages:**
 	- Scripting: `Python` `Bash`
-	- Procedural: `C` `C++`
-	- Object: `Java`
+	- Procedural: `C`
+	- Object: `Java` `C++`
 - **Other:** 
-	- `Raspberry` `Illustrator` `Photoshop` `Wordpress`
+	- `Raspberry` `Wordpress`
 ---
 
 ### 📚 Certifications
