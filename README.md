@@ -10,7 +10,7 @@
 
 ## 📢 About me
 
-I'm **neapolitan** cloud engineer. With a degree in computer science and specializing in **cloud computing**.
+I'm **neapolitan** cloud architect. With a degree in computer science and specializing in **cloud computing**.
 
 I have studied and work on everything related to the cloud. From the first approach to the first steps in cloud. I have experience with small and large migrations for small and large clients. I have also built entire systems with cloud-native methodology for university and for work. 
 <br>
@@ -37,10 +37,13 @@ I constantly work with systems that require high reliability and zero failure, l
 ---
 
 ### 📚 Certifications
-<a href="https://www.credly.com/users/giuseppe-di-palma.9752bbf2"><img width="84px" alt="Youtube" title="Youtube" src="https://i.imgur.com/sotUhGK.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-<a href="https://www.credly.com/users/giuseppe-di-palma.9752bbf2"><img width="84px" alt="Twitter" title="Twitter" src="https://i.imgur.com/Jq6eGRa.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
+- [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/51e69a86-0e61-41d2-95b4-894aa43db6d0)
+- [AWS Certified Security – Specialty](https://www.credly.com/badges/0f42512c-05bc-447b-8716-c4e477d69865)
+- [Oracle Certified Associate - Architect Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=396DDD578B85E9CF08DDBE4CE3A6C86BD32EFEB9F2AC0AB825CCDCA34B6B30F4)
+- [Associate Cloud Engineer Certification](https://www.credly.com/badges/c68447e2-afe9-4d53-a0d8-e7ee5c1015ea)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/8f7d0e80-8fb4-488c-a8ad-e69ddf97b9b2)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/5979056b-14dd-43a6-9bd7-e398dbe32f0c)
+- [AWS Certified Database – Specialty](https://www.credly.com/badges/6079016a-c705-4959-9d8f-c48998d4137a)
 
 <details>	
   <br/>
